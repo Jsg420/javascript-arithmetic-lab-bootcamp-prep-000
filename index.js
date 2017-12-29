@@ -23,5 +23,5 @@ function dec(a, n) {
 }
 
 function parseInt(a, b) {
-  
+  return a, b 
 }
