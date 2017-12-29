@@ -22,6 +22,4 @@ function dec(a, n) {
   return a - 1
 }
 
-function parseInt(a) {
-  return a, 10 
-}
+parseInt(0, 10)
