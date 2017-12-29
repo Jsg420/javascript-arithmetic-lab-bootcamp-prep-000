@@ -22,4 +22,6 @@ function dec(a, n) {
   return a - 1
 }
 
-parseInt(0, 10)
+function parseInt(a, b) {
+  
+}
