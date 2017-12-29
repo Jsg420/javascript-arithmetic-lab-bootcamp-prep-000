@@ -22,4 +22,4 @@ function dec(a, n) {
   return a - 1
 }
 
-parseInt("2", 10)
+makeInt("2", 10)
