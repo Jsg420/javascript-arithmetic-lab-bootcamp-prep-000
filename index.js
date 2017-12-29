@@ -18,5 +18,7 @@ function inc(a, n) {
   return a + 1
 }
 
-
+function inc(a, n) {
+  return a - 1
+}
 
